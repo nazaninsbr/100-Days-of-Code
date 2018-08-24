@@ -10,5 +10,5 @@ my 100 Days of Code journey documented on a daily basis
 ### Day 2 (Aug 24, 2018)
 <ol>
   <li>implementation of singly and doubly linkedlists (the repository can be found <a href="https://github.com/nazaninsbr/LinkedLists">here</a>)</li>
-<!--   <li></li> -->
+  <li>implementing stack and solving some problems using stack (the repository <a href="https://github.com/nazaninsbr/Stack">here</a>)</li>
 </ol>
