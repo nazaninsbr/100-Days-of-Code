@@ -15,6 +15,6 @@ my 100 Days of Code journey documented on a daily basis.
 
 ### Day 3 (Aug 25, 2018)
 <ol>
-  <li></li>
+  <li>add 2 new features to Rankon/Pints</li>
   <li>approving commits to the Rankon/Pints project</li>
 </ol>
