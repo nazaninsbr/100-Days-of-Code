@@ -1,5 +1,11 @@
 # 100-Days-of-Code
-my 100 Days of Code journey documented on a daily basis.  
+my 100 Days of Code journey documented on a daily basis. 
+
+<strong><i>rules:</i></strong><br>
+<ul>
+  <li>at least 1 hour everyday</li>
+  <li>that time has to be spent on learning new things or personal projects (no work projects!)</li>
+</ul>
 
 ### Day 1 (Aug 23, 2018)
 <ol>
