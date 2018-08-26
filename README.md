@@ -29,6 +29,5 @@ my 100 Days of Code journey documented on a daily basis.
 ### Day 4 (Aug 26, 2018)
 <ol>
   <li>writing a code to analyse how having hashtags on instagram posts effect the number of likes the post gets</li>
-<!--   <li> (the repository can be found <a href="">here</a>)</li>
-  <li></li> -->
+  <li>learning how to use vue.js and django together (the repository can be found <a href="https://github.com/nazaninsbr/Django-Vue-Example">here</a>)</li>
 </ol>
