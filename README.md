@@ -24,7 +24,7 @@ my 100 Days of Code journey documented on a daily basis.
 
 ### Day 4 (Aug 26, 2018)
 <ol>
-  <li>writing a code to analyze how having hashtags on instagram posts effects the number of likes we get</li>
+  <li>writing a code to analyse how having hashtags on instagram posts effects the number of likes we get</li>
 <!--   <li> (the repository can be found <a href="">here</a>)</li>
   <li></li> -->
 </ol>
