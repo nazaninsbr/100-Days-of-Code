@@ -15,8 +15,6 @@ my 100 Days of Code journey documented on a daily basis.
 
 ### Day 3 (Aug 25, 2018)
 <ol>
-  <li>adding 2 new features to Rankon/Pints</li>
-  <li>approving commits to the Rankon/Pints project</li>
   <li>implementing different types of queues with a number of implementation styles (the repository can be found <a href="https://github.com/nazaninsbr/Queue">here</a>)</li>
   <li>learning the basics of TypeScript (the repository can be found <a href="https://github.com/nazaninsbr/What-is-TypeScript">here</a>)</li>
   <li>reading about object oriented programming in Python</li>
