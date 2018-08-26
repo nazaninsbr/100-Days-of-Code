@@ -21,3 +21,10 @@ my 100 Days of Code journey documented on a daily basis.
   <li>learning the basics of TypeScript (the repository can be found <a href="https://github.com/nazaninsbr/What-is-TypeScript">here</a>)</li>
   <li>reading about object oriented programming in Python</li>
 </ol>
+
+### Day 4 (Aug 26, 2018)
+<ol>
+  <li>writing a code to analyze how having hashtags on instagram posts effects the number of likes we get</li>
+<!--   <li> (the repository can be found <a href="">here</a>)</li>
+  <li></li> -->
+</ol>
