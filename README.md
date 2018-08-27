@@ -31,3 +31,9 @@ my 100 Days of Code journey documented on a daily basis.
   <li>writing a code to analyse how having hashtags on instagram posts effect the number of likes the post gets</li>
   <li>learning how to use vue.js and django together (the repository can be found <a href="https://github.com/nazaninsbr/Django-Vue-Example">here</a>)</li>
 </ol>
+
+### Day 5 (Aug 27, 2018)
+<ol>
+  <li>graph implementation</li>
+  <li>making graphs using networkx and visualization (the repository can be found <a href="https://github.com/nazaninsbr/Graph">here</a>)</li>
+</ol>
