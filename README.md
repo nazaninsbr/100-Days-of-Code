@@ -21,19 +21,27 @@ my 100 Days of Code journey documented on a daily basis.
 
 ### Day 3 (Aug 25, 2018)
 <ol>
-  <li>implementing different types of queues with a number of implementation styles (the repository can be found <a href="https://github.com/nazaninsbr/Queue">here</a>)</li>
-  <li>learning the basics of TypeScript (the repository can be found <a href="https://github.com/nazaninsbr/What-is-TypeScript">here</a>)</li>
-  <li>reading about object oriented programming in Python</li>
+    <li>implementing different types of queues with a number of implementation styles (the repository can be found <a href="https://github.com/nazaninsbr/Queue">here</a>)</li>
+    <li>learning the basics of TypeScript (the repository can be found <a href="https://github.com/nazaninsbr/What-is-TypeScript">here</a>)</li>
+    <li>reading about object oriented programming in Python</li>
 </ol>
 
 ### Day 4 (Aug 26, 2018)
 <ol>
-  <li>writing a code to analyse how having hashtags on instagram posts effect the number of likes the post gets</li>
-  <li>learning how to use vue.js and django together (the repository can be found <a href="https://github.com/nazaninsbr/Django-Vue-Example">here</a>)</li>
+    <li>writing a code to analyse how having hashtags on instagram posts effect the number of likes the post gets</li>
+    <li>learning how to use vue.js and django together (the repository can be found <a href="https://github.com/nazaninsbr/Django-Vue-Example">here</a>)</li>
 </ol>
 
 ### Day 5 (Aug 27, 2018)
 <ol>
-  <li>graph implementation</li>
-  <li>making graphs using networkx and visualization (the repository can be found <a href="https://github.com/nazaninsbr/Graph">here</a>)</li>
+    <li>graph implementation</li>
+    <li>making graphs using networkx and visualization (the repository can be found <a href="https://github.com/nazaninsbr/Graph">here</a>)</li>
+    <li> learning how to integrate django and react.js</li> 
+</ol>
+
+### Day 6 (Aug 28, 2018)
+<ol>
+    <li>AI Programming with Python Nanodegree Free Preview</li>
+	  <li>Intro to Programming Nanodegree Free Preview</li>
+	  <li>Front-End Web Developer Nanodegree Preview</li>
 </ol>
