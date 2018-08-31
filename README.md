@@ -60,6 +60,7 @@ my 100 Days of Code journey documented on a daily basis.
 
 ### Day 9 (Aug 31, 2018)
 <ol>
+	<li>finishing the materialize tutorial (the repository can be found <a href="https://github.com/nazaninsbr/Learning-Materialize">here</a>)</li>
 </ol>
 
 
