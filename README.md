@@ -45,3 +45,21 @@ my 100 Days of Code journey documented on a daily basis.
 	  <li>Intro to Programming Nanodegree Free Preview</li>
 	  <li>Front-End Web Developer Nanodegree Preview</li>
 </ol>
+
+### Day 7 (Aug 29, 2018)
+<ol>
+   	<li>Working on a Materialize tutorial</li>
+	<li>Starting to learn the basics of PyTorch</li>
+</ol>
+
+### Day 8 (Aug 30, 2018)
+<ol>
+	<li>Working on a Materialize tutorial</li>
+	<li>Working on a Bootstrap tutorial</li>
+</ol>
+
+### Day 9 (Aug 31, 2018)
+<ol>
+</ol>
+
+
