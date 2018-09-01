@@ -63,4 +63,8 @@ my 100 Days of Code journey documented on a daily basis.
 	<li>finishing the materialize tutorial (the repository can be found <a href="https://github.com/nazaninsbr/Learning-Materialize">here</a>)</li>
 </ol>
 
+### Day 10 (September 1, 2018)
+<ol>
+	<li>finishing the bootstrap tutorial (the repository can be found <a href="https://github.com/nazaninsbr/Learning-Bootstrap">here</a>)</li>
+</ol>
 
