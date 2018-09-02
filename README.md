@@ -68,3 +68,7 @@ my 100 Days of Code journey documented on a daily basis.
 	<li>finishing the bootstrap tutorial (the repository can be found <a href="https://github.com/nazaninsbr/Learning-Bootstrap">here</a>)</li>
 </ol>
 
+### Day 11 (September 2, 2018)
+<ol>
+	<li>creating a snowy background using javascript (you can see the page <a href="https://nazaninsbr.github.io/Snowy-Background/">here</a>)</li>
+</ol>
