@@ -72,3 +72,8 @@ my 100 Days of Code journey documented on a daily basis.
 <ol>
 	<li>creating a snowy background using javascript (you can see the page <a href="https://nazaninsbr.github.io/Snowy-Background/">here</a>)</li>
 </ol>
+
+### Day 12 (September 3, 2018)
+<ol>
+	<li> (you can see the page <a href="">here</a>)</li>
+</ol>
