@@ -77,3 +77,8 @@ my 100 Days of Code journey documented on a daily basis.
 <ol>
 	<li>starting work on a personal website</li>
 </ol>
+
+### Day 13 (September 4, 2018)
+<ol>
+	<li>starting working on "Learn to Program: The Fundamentals" course on Coursera</li>
+</ol>
