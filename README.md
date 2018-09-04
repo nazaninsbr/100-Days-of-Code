@@ -75,5 +75,5 @@ my 100 Days of Code journey documented on a daily basis.
 
 ### Day 12 (September 3, 2018)
 <ol>
-	<li> (you can see the page <a href="">here</a>)</li>
+	<li>starting work on a personal website</li>
 </ol>
