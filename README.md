@@ -82,3 +82,9 @@ my 100 Days of Code journey documented on a daily basis.
 <ol>
 	<li>starting working on "Learn to Program: The Fundamentals" course on Coursera</li>
 </ol>
+
+### Day 14 (September 5, 2018)
+<ol>
+	<li>creating an animated countdown (you can see the code <a href="https://github.com/nazaninsbr/Animated-Countdown">here</a>)</li>
+</ol>
+
