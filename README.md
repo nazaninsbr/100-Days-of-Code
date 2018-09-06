@@ -91,4 +91,5 @@ my 100 Days of Code journey documented on a daily basis.
 ### Day 15 (September 6, 2018)
 <ol>
 	<li>finishing the "Learn to Program: The Fundamentals" course (you can see more info on the course <a href="https://www.class-central.com/course/coursera-learn-to-program-the-fundamentals-385?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_september_2018">here</a>)</li>
+	<li>finishing a ES6 tutorial</li>
 </ol>
