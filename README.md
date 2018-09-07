@@ -93,3 +93,8 @@ my 100 Days of Code journey documented on a daily basis.
 	<li>finishing the "Learn to Program: The Fundamentals" course (you can see more info on the course <a href="https://www.class-central.com/course/coursera-learn-to-program-the-fundamentals-385?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_september_2018">here</a>)</li>
 	<li>finishing an ES6 tutorial series</li>
 </ol>
+
+### Day 16 (September 7, 2018)
+<ol>
+	<li>finishing a object oriented javascript tutorial series</li>
+</ol>
