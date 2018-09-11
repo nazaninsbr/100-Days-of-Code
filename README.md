@@ -98,3 +98,9 @@ my 100 Days of Code journey documented on a daily basis.
 <ol>
 	<li>finishing a object oriented javascript tutorial series</li>
 </ol>
+
+### Day 17 (September 11, 2018)
+<ol>
+	<li>creating a Menger Sponge Fractal (see the code <a href="https://github.com/nazaninsbr/Menger-Sponge-Fractal">here</a>)</li>
+	<li>creating a Terrain Generation with Perlin Noise (see the code <a href="https://github.com/nazaninsbr/Terrain-Generation-with-Perlin-Noise">here</a>)</li>
+</ol>
