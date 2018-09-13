@@ -104,3 +104,13 @@ my 100 Days of Code journey documented on a daily basis.
 	<li>creating a Menger Sponge Fractal (see the code <a href="https://github.com/nazaninsbr/Menger-Sponge-Fractal">here</a>)</li>
 	<li>creating a Terrain Generation with Perlin Noise (see the code <a href="https://github.com/nazaninsbr/Terrain-Generation-with-Perlin-Noise">here</a>)</li>
 </ol>
+
+### Day 18 (September 12, 2018)
+<ol>
+	<li>studying a couple of courses on `Udacity`</li>
+</ol>
+
+### Day 19 (September 13, 2018)
+<ol>
+	<li>creating knots (see the code <a href="https://github.com/nazaninsbr/Knots">here</a>)</li>
+</ol>
