@@ -114,3 +114,8 @@ my 100 Days of Code journey documented on a daily basis.
 <ol>
 	<li>creating knots (see the code <a href="https://github.com/nazaninsbr/Knots">here</a>)</li>
 </ol>
+
+### Day 20 (September 14, 2018)
+<ol>
+	<li>creating the lorenz acctactor (see the code <a href="https://github.com/nazaninsbr/The-Lorenz-Attractor">here</a>)</li>
+</ol>
