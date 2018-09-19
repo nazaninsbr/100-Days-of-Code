@@ -9,7 +9,9 @@ Rules:
 
 
 ### Day 1 (Sep 19, 2018)
-Something New | 
-Algorithm | matrix multiplication with and without numpy
-Reading | 40 pages of the book "Why Men Love Bitches"
-Workout |
+| Task | What I did |
+| ---- | ---------- |
+| Something New | |
+| Algorithm | matrix multiplication with and without numpy |
+| Reading | 40 pages of the book "Why Men Love Bitches" |
+| Workout | |
