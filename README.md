@@ -2,16 +2,14 @@
 my 100 Days of Code journey documented on a daily basis. 
 
 Rules:
-* learn how to implement an algorithm 
-* learn some new programming language or technique or ... (just something new)
-* read at least 20 pages evey day 
-* workout for at least 30 minutes
+* Code for at least 1 hour
+* Read evey day 
+* Workout for at least 30 minutes
 
 
-### Day 1 (Sep 19, 2018)
+### Day 1 (Sep 22, 2018)
 | Task | What I did |
 | ---- | ---------- |
-| Something New | |
-| Algorithm | matrix multiplication with and without numpy |
-| Reading | 40 pages of the book "Why Men Love Bitches" |
-| Workout | |
+| Code | matrix multiplication with and without numpy |
+| Reading | Lesson 1, 2 & 3 of "504 absolutely essential words" by Murray Bromber|
+| Workout | Day 3, 4, 5 and 6 of Blogilates Abs Challenge |
