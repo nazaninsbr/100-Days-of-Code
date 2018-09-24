@@ -3,9 +3,9 @@ my 100 Days of Code journey documented on a daily basis.
 
 Rules:
 * Code for at least 1 hour
-* Read evey day 
+* Read everyday 
 * Read one Article everyday 
-* Workout for at least 30 minutes
+* Workout everyday 
 
 
 ### Day 1 (Sep 22, 2018)
@@ -24,13 +24,13 @@ Rules:
 | Article | The problem is not social networks … it’s human nature by Enrique Dans (https://medium.com/enrique-dans/the-problem-is-not-social-networks-its-human-nature-53a530588602) |
 | Workout | Day 7 and 8 of Blogilates Abs Challenge |
 
-<!-- ### Day 3 (Sep 24, 2018)
+### Day 3 (Sep 24, 2018)
 | Task | What I did |
 | ---- | ---------- |
-| Code |  |
+| Code | Creating a Hash Table, a simple neural network, different multiplication algorithms |
 | Reading | Lesson 7, 8 & 9 of "504 absolutely essential words" by Murray Bromber|
 | Article | 10 Secrets of University Success (http://lss.info.yorku.ca/resources/10-secrets-of-university-success/) |
-| Workout | Day 9 and 10 of Blogilates Abs Challenge | -->
+| Workout | Day 9 of Blogilates Abs Challenge |
 
 <!-- ### Day 4 (Sep 25, 2018)
 | Task | What I did |
