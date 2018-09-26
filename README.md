@@ -32,13 +32,13 @@ Rules:
 | Article | 10 Secrets of University Success (http://lss.info.yorku.ca/resources/10-secrets-of-university-success/) |
 | Workout | Day 9 of Blogilates Abs Challenge |
 
-<!-- ### Day 4 (Sep 25, 2018)
+### Day 4 (Sep 26, 2018)
 | Task | What I did |
 | ---- | ---------- |
-| Code |  |
-| Reading | Lesson 10, 11 & 12 of "504 absolutely essential words" by Murray Bromber|
+| Code | python text to speech and studied a lot of AI |
+| Reading | Lesson 10 & 11 of "504 absolutely essential words" by Murray Bromber|
 | Article | 25 Killer Actions to Boost Your Self-Confidence (https://zenhabits.net/25-killer-actions-to-boost-your-self-confidence/) |
-| Workout | Day 11 and 12 of Blogilates Abs Challenge | -->
+| Workout | Day 10 of Blogilates Abs Challenge |
 
 <!-- ### Day 5 (Sep 26, 2018)
 | Task | What I did |
