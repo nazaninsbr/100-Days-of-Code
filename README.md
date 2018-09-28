@@ -40,7 +40,7 @@ Rules:
 | Article | 25 Killer Actions to Boost Your Self-Confidence (https://zenhabits.net/25-killer-actions-to-boost-your-self-confidence/) |
 | Workout | Day 10 of Blogilates Abs Challenge |
 
-### Day 5 (Sep 26, 2018)
+### Day 5 (Sep 27, 2018)
 | Task | What I did |
 | ---- | ---------- |
 | Code | AI and Automata study |
@@ -48,13 +48,13 @@ Rules:
 | Article | 7 Ways to Juggle Multiple Project Tasks—and Get Things Done (https://www.liquidplanner.com/blog/7-ways-to-juggle-multiple-project-tasks-and-get-things-done/) |
 | Workout | Day 11 of Blogilates Abs Challenge |
 
-<!-- ### Day 6 (Sep 27, 2018)
+### Day 6 (Sep 28, 2018)
 | Task | What I did |
 | ---- | ---------- |
-| Code |  |
-| Reading | Lesson 16, 17 & 18 of "504 absolutely essential words" by Murray Bromber|
+| Code | online courses |
+| Reading | 20 pages of a Economics book |
 | Article | How to Be Productive When You’re Overwhelmed (https://www.liquidplanner.com/blog/how-to-be-productive-when-youre-overwhelmed/) |
-| Workout | Day 15 and 16 of Blogilates Abs Challenge | -->
+| Workout | jogging and some leg workout + crunches |
 
 <!-- ### Day 7 (Sep 28, 2018)
 | Task | What I did |
