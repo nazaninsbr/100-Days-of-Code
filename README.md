@@ -56,10 +56,56 @@ Rules:
 | Article | How to Be Productive When You’re Overwhelmed (https://www.liquidplanner.com/blog/how-to-be-productive-when-youre-overwhelmed/) |
 | Workout | jogging and some leg workout + crunches |
 
-<!-- ### Day 7 (Sep 28, 2018)
+### Day 7 (Sep 29, 2018)
+| Task | What I did |
+| ---- | ---------- |
+| Code | day 1 up to the end of day 6 of HackerRank: 30 days of code |
+| Reading | 10 pages of The 7 Habits of Highly Effective People by Stephen Covey |
+| Article | 6 Tricks to Stay Up Late at Night (https://www.everydayhealth.com/sleep/six-tricks-to-stay-up-late-at-night.aspx) |
+| Workout | posted on `@_coder_girl_` |
+
+<!-- ### Day 8 (Sep 30, 2018)
+| Task | What I did |
+| ---- | ---------- |
+| Code | Linear Algebra (https://www.youtube.com/watch?v=uQhTuRlWMxw&index=7&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
+| Reading |  |
+| Article |  |
+| Workout |  |
+
+### Day 9 (Oct 1, 2018)
 | Task | What I did |
 | ---- | ---------- |
 | Code |  |
-| Reading | Lesson 19, 20 & 21 of "504 absolutely essential words" by Murray Bromber|
-| Article | 6 Tricks to Stay Up Late at Night (https://www.everydayhealth.com/sleep/six-tricks-to-stay-up-late-at-night.aspx) |
-| Workout | Day 17 and 18 of Blogilates Abs Challenge | -->
+| Reading |  |
+| Article |  |
+| Workout |  |
+
+
+### Day 10 (Oct 2, 2018)
+| Task | What I did |
+| ---- | ---------- |
+| Code |  |
+| Reading |  |
+| Article |  |
+| Workout |  |
+
+
+### Day 11 (Oc 3, 2018)
+| Task | What I did |
+| ---- | ---------- |
+| Code |  |
+| Reading |  |
+| Article |  |
+| Workout |  |
+
+
+
+### Day  (, 2018)
+| Task | What I did |
+| ---- | ---------- |
+| Code |  |
+| Reading |  |
+| Article |  |
+| Workout |  |
+
+ -->
