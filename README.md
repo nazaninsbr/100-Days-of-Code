@@ -60,45 +60,88 @@ Rules:
 | Task | What I did |
 | ---- | ---------- |
 | Code | day 1 up to the end of day 6 of HackerRank: 30 days of code |
-| Reading | 10 pages of The 7 Habits of Highly Effective People by Stephen Covey |
+| Reading | 7 pages of The 7 Habits of Highly Effective People by Stephen Covey |
 | Article | 6 Tricks to Stay Up Late at Night (https://www.everydayhealth.com/sleep/six-tricks-to-stay-up-late-at-night.aspx) |
-| Workout | posted on `@_coder_girl_` |
+| Workout | 100 crunches|
 
-<!-- ### Day 8 (Sep 30, 2018)
+### Day 8 (Sep 30, 2018)
 | Task | What I did |
 | ---- | ---------- |
 | Code | Linear Algebra (https://www.youtube.com/watch?v=uQhTuRlWMxw&index=7&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
+| Reading | 7 pages of The 7 Habits of Highly Effective People by Stephen Covey |
+| Article | I Have Skills (Right?) (https://code.likeagirl.io/i-have-skills-right-5a625cc6a910) |
+| Workout | walking for 127 minutes |
+
+### Day 9 (Oct 5, 2018)
+| Task | What I did |
+| ---- | ---------- |
+| Code | Hanoi and Sierpinski (https://www.youtube.com/playlist?list=PLZHQObOWTQDMRtm8h9bG9P06WINNoBnCR) |
+| Reading | Compilers Aho Lam page 1 - 61  |
+| Article | How To Write A Web Developer Resume — A Complete Guide (https://code.likeagirl.io/how-to-write-a-web-developer-resume-a-complete-guide-3ffde6810397) |
+| Workout | walking |
+
+
+### Day 10 (Oct 6, 2018)
+| Task | What I did |
+| ---- | ---------- |
+| Code | Sine Wave based on this tutorial: https://processing.org/examples/sinewave.html |
+| Reading | Pattern Classification by Duda and Hart page 1 till the end of page 36 |
+| Article | Getting into the Security Field (https://code.likeagirl.io/getting-into-the-security-field-ccde63468ca8) |
+| Workout | 100 crunches + 100 leg raises |
+
+
+<!-- ### Day 11 (Oct 7, 2018)
+| Task | What I did |
+| ---- | ---------- |
+| Code | flowers based on this tutorial: https://processing.org/examples/pulses.html |
+| Reading |  |
+| Article | Best Tips to Get Hired by Google (https://www.thebalancecareers.com/top-tips-to-get-hired-by-google-2063722) |
+| Workout |  |
+
+
+
+### Day 12 (Oct 8, 2018)
+| Task | What I did |
+| ---- | ---------- |
+| Code | Draw line |
+| Reading |  |
+| Article | How to Write a Tutorial (https://www.wikihow.com/Write-a-Tutorial) |
+| Workout |  |
+
+
+### Day 13 (Oct 9, 2018)
+| Task | What I did |
+| ---- | ---------- |
+| Code | draw circles based on this tutorial: https://processing.org/examples/pattern.html |
+| Reading |  |
+| Article | Why you learn the most when you feel like you’re struggling as a developer (https://medium.freecodecamp.org/why-you-learn-the-most-when-you-feel-like-youre-struggling-as-a-developer-7513327c8ee4) |
+| Workout |  |
+
+### Day 14 (Oct 10, 2018)
+| Task | What I did |
+| ---- | ---------- |
+| Code | scaling and circles in p5.js using the websites examples |
 | Reading |  |
 | Article |  |
 | Workout |  |
 
-### Day 9 (Oct 1, 2018)
+
+### Day 15 (Oct 11, 2018)
+| Task | What I did |
+| ---- | ---------- |
+| Code | Clock in p5.js using the websites examples |
+| Reading |  |
+| Article |  |
+| Workout |  |
+
+
+### Day 16 (Oct 12, 2018)
 | Task | What I did |
 | ---- | ---------- |
 | Code |  |
 | Reading |  |
 | Article |  |
 | Workout |  |
-
-
-### Day 10 (Oct 2, 2018)
-| Task | What I did |
-| ---- | ---------- |
-| Code |  |
-| Reading |  |
-| Article |  |
-| Workout |  |
-
-
-### Day 11 (Oc 3, 2018)
-| Task | What I did |
-| ---- | ---------- |
-| Code |  |
-| Reading |  |
-| Article |  |
-| Workout |  |
-
-
 
 ### Day  (, 2018)
 | Task | What I did |
