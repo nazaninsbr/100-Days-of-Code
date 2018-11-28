@@ -87,16 +87,16 @@ Rules:
 | Code | Sine Wave based on this tutorial: https://processing.org/examples/sinewave.html |
 | Reading | Pattern Classification by Duda and Hart page 1 till the end of page 36 |
 | Article | Getting into the Security Field (https://code.likeagirl.io/getting-into-the-security-field-ccde63468ca8) |
-| Workout | 100 crunches + 100 leg raises |
+| Workout | 100 crunches |
 
 
-<!-- ### Day 11 (Oct 7, 2018)
+### Day 11 (Oct 7, 2018)
 | Task | What I did |
 | ---- | ---------- |
 | Code | flowers based on this tutorial: https://processing.org/examples/pulses.html |
-| Reading |  |
+| Reading | Compilers Aho Lam page 61-91 |
 | Article | Best Tips to Get Hired by Google (https://www.thebalancecareers.com/top-tips-to-get-hired-by-google-2063722) |
-| Workout |  |
+| Workout | walking |
 
 
 
@@ -104,12 +104,12 @@ Rules:
 | Task | What I did |
 | ---- | ---------- |
 | Code | Draw line |
-| Reading |  |
+| Reading | Compilers Aho Lam page 91-121 |
 | Article | How to Write a Tutorial (https://www.wikihow.com/Write-a-Tutorial) |
-| Workout |  |
+| Workout | walking |
 
 
-### Day 13 (Oct 9, 2018)
+<!-- ### Day 13 (Oct 9, 2018)
 | Task | What I did |
 | ---- | ---------- |
 | Code | draw circles based on this tutorial: https://processing.org/examples/pattern.html |
